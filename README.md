@@ -10,7 +10,7 @@ I have a well rounded and valuable understanding of how to drive the project for
 
 ### Experience
 ### Digital Development Specialist
-#### **Saro Creative Ing. (2015 - Present)
+#### Saro Creative Ing. (2015 - Present)
 Using Agile based principles to create timelines for all long and short running projects, while continuisly integrating scope changes and rush projects.
 
 Use a variety of libraries, tools and languages (GIT, JS, HTML, PHP, Ruby on Rails) to develope new features and bug fixes for all running client sites.
