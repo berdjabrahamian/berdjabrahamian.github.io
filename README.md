@@ -22,24 +22,30 @@ Research and development with emerging technologies and frameworks, by creating 
 
 ---
 
-`[eMedals](https://emedals.com) (Re-Branding, Custom Solution, E-Commerce, Project Management, Full-Stack Development)`
+##### [eMedals](https://emedals.com)
+
+`Re-Branding, Custom Solution, E-Commerce, Project Management, Full-Stack Development`
 
 Team lead and developer on rebuilding a new scalable multi-store Auction API system, leveraging the latest tools to create a Magento and Shopify plugin that is currently being used to power North Americas largest Authentic Militaria Auction House 
 
 ---
 
-`PManoukian (Re-Branding, Custom Solution, E-Commerce, Art Direction, Project Management, Full-Stack Development)`
+##### PManoukian
+`Re-Branding, Custom Solution, E-Commerce, Art Direction, Project Management, Full-Stack Development`
 
 Developed proof of concept product configurator that can output over 1 billion unique ring configurations. Working closely with our photographer and art director, we broke down each element, created image maps and built a custom online platform that will render out each configuration in high quality print-ready format to screen being utilized by client on their Amazon storefront.
 
 ---
 
-`Schwarzkopf (Custom Solution, Front-End Development)`
+##### Schwarzkopt
+
+`Custom Solution, Front-End Development`
 
 Assisted in the front-end development and design for Schwarzkopf’s (the number onf Beauty Care Brand of Henkel Company) internal saleforce dashboard.
 
 ---
 
-`Metroland Media (UI/UX, Custom Solution, Responsive Design, Strategy Planning)`
+##### Metroland Media
+`UI/UX, Custom Solution, Responsive Design, Strategy Planning`
 
 Submited and built an initial strategy and design for Canada’s leading media publisher this is being utilized and updated on all of their 39 community sites.
