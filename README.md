@@ -10,7 +10,7 @@ I have a well rounded and valuable understanding of how to drive the project for
 
 ### Experience
 ### Digital Development Specialist
-#### **Saro Creative Ing. (2015 - Present)  -  [sarocreative.com](https://sarocreative.com)
+#### **Saro Creative Inc. (2015 - Present)  -  [sarocreative.com](https://sarocreative.com)
 
 Responsible for leading multiple projects simultaneously within a wide range of budgets totaling $250K +.
 
@@ -22,7 +22,7 @@ Research and development with emerging technologies and frameworks, by creating 
 
 ---
 
-`eMedals (Re-Branding, Custom Solution, E-Commerce, Project Management, Full-Stack Development)`
+`[eMedals](https://emedals.com) (Re-Branding, Custom Solution, E-Commerce, Project Management, Full-Stack Development)`
 
 Team lead and developer on rebuilding a new scalable multi-store Auction API system, leveraging the latest tools to create a Magento and Shopify plugin that is currently being used to power North Americas largest Authentic Militaria Auction House 
 
