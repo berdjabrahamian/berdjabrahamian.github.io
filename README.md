@@ -37,7 +37,7 @@ Developed proof of concept product configurator that can output over 1 billion u
 
 ---
 
-##### Schwarzkopt
+##### [Schwarzkopt](https://myskp.com/)
 
 `Custom Solution, Front-End Development`
 
