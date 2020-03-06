@@ -1,4 +1,4 @@
-###### Phone: (416) 567-5988, Email: berdj.abrahamian@gmail.com, [Github Profile](https://github.com/berdjabrahamian),  [LinkedIn Profile](https://www.linkedin.com/in/berdj-abrahamian-dev-specialist/)  
+###### Phone: (416) 567-5988, Email: berdj.abrahamian@gmail.com, Github: [Profile](https://github.com/berdjabrahamian),  LinkedIn: [Profile](https://www.linkedin.com/in/berdj-abrahamian-dev-specialist/)  
 
 
 # Berdj Abrahamian
