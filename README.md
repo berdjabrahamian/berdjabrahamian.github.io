@@ -22,6 +22,14 @@ Research and development with emerging technologies and frameworks, by creating 
 
 ---
 
+##### [Westminster Motors](https://www.westminstermotors.ca)
+
+`Re-Branding, CMS System, Project Management, Full-Stack Development`
+
+Lead developer, simple CMS site for a local British Car Repair shop. This was a challenge in itself, originally estimated 2 weeks for updating the old site for the relaunch of their 10 year anniversary. However I knew that the client deserved better and that the updates would keep the needle in place, not push it forward. I made the executive decision to take that time instead and we launched a whole new product in 2 weeks, leveraging open source tools to help us get there. Welcome to the new Westminster Motors.
+
+---
+
 ##### [eMedals](https://emedals.com)
 
 `Re-Branding, Custom Solution, E-Commerce, Project Management, Full-Stack Development`
