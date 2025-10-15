@@ -1,19 +1,38 @@
-###### Phone: (416) 567-5988, Email: berdj.abrahamian@gmail.com, Github: [Profile](https://github.com/berdjabrahamian),  LinkedIn: [Profile](https://www.linkedin.com/in/berdj-abrahamian-dev-specialist/)  
+###### Phone: (416) 567-5988, 
+###### Email: berdj.abrahamian@gmail.com, 
+###### Github: [Profile](https://github.com/berdjabrahamian),  
+###### LinkedIn: [Profile](https://www.linkedin.com/in/berdj-abrahamian/)  
 
 
 # Berdj Abrahamian
-## Full Stack Developer
+## Backend Developer/Technical Lead
 
-Inventive Full Stack developer with 5+ years working in E-Commerce and custom build systems, providing a seamless bridge between design and experience. Working in a boutique agency, I have had the opportunity to push the needle forward in a high-tech, fast-paced environment, honing my skills and focus on design, development and project management skills.  
+Highly skilled Technical Lead and Digital Development Specialist with 10+ years of experience in programming. Proven ability to design, develop, and maintain high-quality software solutions, build scalable infrastructure, and lead teams effectively.
 
 I have a well rounded and valuable understanding of how to drive the project forward by focusing on the needs and requirements of my clients and effectively shifting gears and pivoting in a constant changing ladnscape of scopes and priorities. Resulting in a product that exceeds expectation.
 
+
+
 ### Experience
 
-### Full Stack Developer
-#### **High Tide Inc.** (2021 - ) - [High Tide](https://hightideinc.com)
+### Technical Lead
+#### **WellnessLiving** (Aug 2022 - ) [WellnessLiving](https://wellnessliving.com)
 
-**Projects**
+* Developed and maintained PHP-based robust REST APIs and data models to support immersive training experiences and dynamic whiteboard functionality in live fitness classes.
+* Implemented real-time rendering on gym displays and app via dynamic whiteboards, with features such as live leaderboarding, notifications, social reactions, in-app chat and messaging, and performance logging.
+* Built scalable infrastructure on AWS (EC2, RDS, S3, CloudFront) to ensure high availability and global reach with automated scaling and CDN support.
+* Implemented CI/CD pipelines using GitHub Actions and AWS CodePipeline for rapid, safe deployment across multiple environments.
+* Improved code quality and release confidence through a testing strategy with unit, integration, and E2E tests using PHPUnit, Jest, and Playwright.
+* Monitored system performance and user activity with AWS CloudWatch, X-Ray, and custom logging to proactively identify and resolve latency issues.
+
+---
+
+### Full Stack Developer
+#### **High Tide Inc.** (2021 - 2022) - [High Tide](https://hightideinc.com)
+
+* Developed, built, and maintained internal tooling and custom software for stakeholders and Brink and Mortar locations to maintain online systems and functionality.
+* Responsible for the maintenance and updates for Canna Cabana E-commerce store, building out new functionality and maintaining currently implemented custom systems to provide customers a better online experience.
+* Implemented a full DEV OPS pipeline, updated the asset pipeline, led the development of Canna Cabana's KYC verification system, and made Canna Cabana the first approved retailer for online cannabis sales in all of Alberta by AGLC.
 
 ---
 
@@ -61,3 +80,11 @@ Assisted in the front-end development and design for Schwarzkopf’s (the number
 `UI/UX, Custom Solution, Responsive Design, Strategy Planning`
 
 Submited and built an initial strategy and design for Canada’s leading media publisher this is being utilized and updated on all of their 39 community sites.
+
+---
+
+### Skills & Expertise
+* Backend Development (5+ years in E-Commerce and custom build systems)
+* Project Management
+* Scrum Master Certified
+* Emerging Technologies and Frameworks
