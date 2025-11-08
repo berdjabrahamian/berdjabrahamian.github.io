@@ -9,7 +9,7 @@
 
 Highly skilled Technical Lead and Digital Development Specialist with 10+ years of experience in programming. Proven ability to design, develop, and maintain high-quality software solutions, build scalable infrastructure, and lead teams effectively.
 
-I have a well rounded and valuable understanding of how to drive the project forward by focusing on the needs and requirements of my clients and effectively shifting gears and pivoting in a constant changing ladnscape of scopes and priorities. Resulting in a product that exceeds expectation.
+I have well rounded and valuable understanding of how to drive projects forward by focusing on the needs and requirements of my clients by effectively shifting gears and pivoting in a constant changing ladnscape of scopes and priorities. Resulting in a product that exceeds expectation.
 
 
 
@@ -21,7 +21,7 @@ I have a well rounded and valuable understanding of how to drive the project for
 * Developed and maintained PHP-based robust REST APIs and data models to support immersive training experiences and dynamic whiteboard functionality in live fitness classes.
 * Implemented real-time rendering on gym displays and app via dynamic whiteboards, with features such as live leaderboarding, notifications, social reactions, in-app chat and messaging, and performance logging.
 * Built scalable infrastructure on AWS (EC2, RDS, S3, CloudFront) to ensure high availability and global reach with automated scaling and CDN support.
-* Implemented CI/CD pipelines using GitHub Actions and AWS CodePipeline for rapid, safe deployment across multiple environments.
+* Implemented CI/CD pipelines using GitHub Actions and AWS CodePipeline for rapid, safe, and compliant deployment across multiple environments.
 * Improved code quality and release confidence through a testing strategy with unit, integration, and E2E tests using PHPUnit, Jest, and Playwright.
 * Monitored system performance and user activity with AWS CloudWatch, X-Ray, and custom logging to proactively identify and resolve latency issues.
 
@@ -30,8 +30,8 @@ I have a well rounded and valuable understanding of how to drive the project for
 ### Full Stack Developer
 #### **High Tide Inc.** (2021 - 2022) - [High Tide](https://hightideinc.com)
 
-* Developed, built, and maintained internal tooling and custom software for stakeholders and Brink and Mortar locations to maintain online systems and functionality.
-* Responsible for the maintenance and updates for Canna Cabana E-commerce store, building out new functionality and maintaining currently implemented custom systems to provide customers a better online experience.
+* Developed, built, and maintained internal tooling and custom software for stakeholders and Brick and Mortar locations to maintain online systems and functionality.
+* Responsible for the maintenance and updates for Canna Cabana E-commerce store, building out new functionality and maintaining currently implemented custom systems to provide customers an optimal online experience.
 * Implemented a full DEV OPS pipeline, updated the asset pipeline, led the development of Canna Cabana's KYC verification system, and made Canna Cabana the first approved retailer for online cannabis sales in all of Alberta by AGLC.
 
 ---
@@ -66,20 +66,20 @@ Team lead and developer on rebuilding a new scalable multi-store Auction API sys
 ##### PManoukian
 `Re-Branding, Custom Solution, E-Commerce, Art Direction, Project Management, Full-Stack Development`
 
-Developed proof of concept product configurator that can output over 1 billion unique ring configurations. Working closely with our photographer and art director, we broke down each element, created image maps and built a custom online platform that will render out each configuration in high quality print-ready format to screen being utilized by client on their Amazon storefront.
+Developed POC product configurator that can output over 1 billion unique ring configurations. Working closely with our photographer and art director, we broke down each element, created image maps and built a custom online platform that will render out each configuration in high quality print-ready format to screen being utilized by client on their Amazon storefront.
 
 
 ##### [Schwarzkopt](https://myskp.com/)
 
 `Custom Solution, Front-End Development`
 
-Assisted in the front-end development and design for Schwarzkopf’s (the number onf Beauty Care Brand of Henkel Company) internal saleforce dashboard.
+Assisted in the front-end development and design for Schwarzkopf’s (the number onf Beauty Care Brand of Henkel Company) internal sales dashboard.
 
 
 ##### Metroland Media
 `UI/UX, Custom Solution, Responsive Design, Strategy Planning`
 
-Submited and built an initial strategy and design for Canada’s leading media publisher this is being utilized and updated on all of their 39 community sites.
+Submitted and built an initial strategy and design for Canada’s leading media publisher this is being utilized and updated on all of their 39 community sites.
 
 ---
 
