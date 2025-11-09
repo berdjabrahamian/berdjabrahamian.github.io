@@ -20,7 +20,7 @@ I have well rounded and valuable understanding of how to drive projects forward 
 #### **WellnessLiving** (Aug 2022 - ) [WellnessLiving](https://wellnessliving.com)
 
 * Developed and maintained PHP-based robust REST APIs and data models to support immersive training experiences and dynamic whiteboard functionality in live fitness classes.
-* Implemented real-time rendering on gym displays and app via dynamic whiteboards, with features such as live leaderboarding, notifications, social reactions, in-app chat and messaging, and performance logging.
+* Implemented real-time rendering on gym displays and app via dynamic whiteboards, with features such as live leader-boarding, notifications, social reactions, in-app chat and messaging, and performance logging.
 * Built scalable infrastructure on AWS (EC2, RDS, S3, CloudFront) to ensure high availability and global reach with automated scaling and CDN support.
 * Implemented CI/CD pipelines using GitHub Actions and AWS CodePipeline for rapid, safe, and compliant deployment across multiple environments.
 * Improved code quality and release confidence through a testing strategy with unit, integration, and E2E tests using PHPUnit, Jest, and Playwright.
@@ -40,11 +40,11 @@ I have well rounded and valuable understanding of how to drive projects forward 
 ### Digital Development Specialist
 #### **Saro Creative Inc.** (2015 - 2021)  -  [sarocreative.com](https://sarocreative.com)
 
-Responsible for leading multiple projects simultaneously within a wide range of budgets totaling $250K +.
+Responsible for leading multiple projects simultaneously within a wide range of budgets totalling $250K +.
 
-Using Agile based principles to create timelines for all long and short running projects, while continuisly integrating scope changes and rush projects.
+Using Agile based principles to create timelines for all long and short running projects, while continuously integrating scope changes and rush projects.
 
-Use a variety of libraries, tools and languages (GIT, JS, HTML, PHP, Ruby on Rails) to develope new features and bug fixes for all running client sites.
+Use a variety of libraries, tools and languages (GIT, JS, HTML, PHP, Ruby on Rails) to develop new features and bug fixes for all running client sites.
 
 Research and development with emerging technologies and frameworks, by creating demos, tools and proof of concepts for consideration on implementation on future projects.
 
