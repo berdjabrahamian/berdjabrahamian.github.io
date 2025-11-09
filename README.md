@@ -74,7 +74,7 @@ Developed POC product configurator that can output over 1 billion unique ring co
 
 `Custom Solution, Front-End Development`
 
-Assisted in the front-end development and design for Schwarzkopf’s (the number onf Beauty Care Brand of Henkel Company) internal sales dashboard.
+Assisted in the front-end development and design for Schwarzkopf’s (#1 Beauty Care Brand of Henkel Company) internal sales dashboard.
 
 
 ##### Metroland Media
