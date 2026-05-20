@@ -19,6 +19,8 @@ I have well rounded and valuable understanding of how to drive projects forward 
 ### Technical Lead
 #### **WellnessLiving** (Aug 2022 - ) [WellnessLiving](https://wellnessliving.com)
 
+* Implemented and deployed AI agents and tooling to bring a Personal AI Trainer product to market
+* Developed internal MCPs, AI agents, and skills to enhance coding agent workflows, improving code quality, developer experience, and memory — while reducing token usage through higher-fidelity HITL and AFK feedback systems
 * Developed and maintained PHP-based robust REST APIs and data models to support immersive training experiences and dynamic whiteboard functionality in live fitness classes.
 * Implemented real-time rendering on gym displays and app via dynamic whiteboards, with features such as live leader-boarding, notifications, social reactions, in-app chat and messaging, and performance logging.
 * Built scalable infrastructure on AWS (EC2, RDS, S3, CloudFront) to ensure high availability and global reach with automated scaling and CDN support.
