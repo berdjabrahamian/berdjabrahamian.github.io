@@ -19,14 +19,15 @@ I have well rounded and valuable understanding of how to drive projects forward 
 ### Technical Lead
 #### **WellnessLiving** (Aug 2022 - ) [WellnessLiving](https://wellnessliving.com)
 
-* Implemented and deployed AI agents and tooling to bring a Personal AI Trainer product to market
-* Developed internal MCPs, AI agents, and skills to enhance coding agent workflows, improving code quality, developer experience, and memory — while reducing token usage through higher-fidelity HITL and AFK feedback systems
-* Developed and maintained PHP-based robust REST APIs and data models to support immersive training experiences and dynamic whiteboard functionality in live fitness classes.
-* Implemented real-time rendering on gym displays and app via dynamic whiteboards, with features such as live leader-boarding, notifications, social reactions, in-app chat and messaging, and performance logging.
-* Built scalable infrastructure on AWS (EC2, RDS, S3, CloudFront) to ensure high availability and global reach with automated scaling and CDN support.
-* Implemented CI/CD pipelines using GitHub Actions and AWS CodePipeline for rapid, safe, and compliant deployment across multiple environments.
-* Improved code quality and release confidence through a testing strategy with unit, integration, and E2E tests using PHPUnit, Jest, and Playwright.
-* Monitored system performance and user activity with AWS CloudWatch, X-Ray, and custom logging to proactively identify and resolve latency issues.
+* Developed MVP for AI agents and tooling to create a Program Builder and AI trainer.
+* Designed and launched internal MCPs, AI agents, and skills to enhance coding agent workflows, improving code quality, developer experience, and memory — while reducing token usage through higher-fidelity HITL and AFK feedback systems
+* PHP-based robust REST APIs and data models to support immersive training experiences and dynamic whiteboard functionality in live fitness classes. 
+* Developed and designed real-time leaderboarding, in-app chat messaging and performance logging. Utilizing dynamic gym displays and whiteboards. Notifications, social reactions and messaging drive constant community and competition, Increasing both client retention and sales for gym provided services.
+* Subscription and 3rd Party Integration, with ETL tooling to import data from external structured content into a proprietary system. This allows businesses to integrate and import data across multiple sales and service channels to increase in gym offerings. The tools also allowed clients to bring in data across multiple services into a single source of truth allowing better accounting and data logging in a single datastore.
+* Scalable infrastructure on AWS (EC2, RDS, S3, CloudFront), utilizing docker containers and images, ensuring high availability, and global reach with automated scaling, CDN support and edge computing.
+* CI/CD pipelines using GitHub Actions, docker, and AWS CodePipeline, enabling rapid, safe deployment across multiple environments.
+* Testing strategy with unit, integration, and E2E tests using PHPUnit, Jest, and Playwright, improving release confidence and code quality, and coverage, all automated with each PR and release.
+* Monitored system performance, observability, and user activity with AWS CloudWatch, X-Ray, Datadog, Grafana, Sentry and other custom logging to proactively identify and resolve issues.
 
 ---
 
